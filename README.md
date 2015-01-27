@@ -1,8 +1,8 @@
 •	The .py file itself is actually not executable (lots of text and examples).<br>
-It has 9 individual questions focused on drawing<br>
-3 types of shape styles in python.<br>
 <br>
-•	Each question has at least 2 examples,<br>
+•It has 9 individual questions focused on drawing<br>
+3 types of shape styles in python.<br>
+Each question has at least 2 examples,<br>
 with the answer clearly displayed below.<br>
 <br>
 •	If you are serious about improving your python skills, I would recommend<br>
