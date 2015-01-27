@@ -10,7 +10,7 @@ creating a new folder called "text_shapes" in your python learning<br>
 directory and saving each function individually, something<br>
 similar to - "square.py", "empty-square.py", "corner-squares.py"<br>
 ect, then adding comments to concepts you can't<br>
-yet quite understand. +<br>
+yet quite understand. <br>
 <br>
 •	Question are from We Heart Swift.<br>
 <br>
