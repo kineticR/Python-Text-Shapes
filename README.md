@@ -1,4 +1,4 @@
-•	The .py file itself is actually not executable. (Lots of text and examples).<br>
+•	The .py file itself is actually not executable (lots of text and examples).<br>
 It has 9 individual questions focused on drawing<br>
 3 types of shape styles in python.<br>
 <br>
