@@ -295,22 +295,6 @@ n = 2
 ++
 
 
-def triangle_corners(n):
-    i = 1
-    while i <= n:
-        if i == 1:      # if first line.
-            print("+")
-            i += 1
-
-        if i == n:      # if last line.
-            print("+" + ("-" * (i - 2)) + "+")
-            i += 1
-
-        else:           # if in between first and last line.
-            print("|" + (" " * (i - 2)) + "\\")
-            i += 1
-
-
 n = 14
 +
 |\
@@ -326,6 +310,23 @@ n = 14
 |          \
 |           \
 +------------+
+
+
+def triangle_corners(n):
+    i = 1
+    while i <= n:
+        if i == 1:      # if first line.
+            print("+")
+            i += 1
+
+        if i == n:      # if last line.
+            print("+" + ("-" * (i - 2)) + "+")
+            i += 1
+
+        else:           # if in between first and last line.
+            print("|" + (" " * (i - 2)) + "\\")
+            i += 1
+
 
 
 
